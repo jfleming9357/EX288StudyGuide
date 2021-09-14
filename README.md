@@ -44,7 +44,7 @@ __Exam Sections__
     - [Openshift Hooks/Triggers in RHOCP docs](https://docs.openshift.com/container-platform/4.6/builds/triggering-builds-build-hooks.html)
     - Easiest in web console
 7. __Working with Templates__
-    - Chapter 6 __VERSION 4.5
+    - Chapter 6 __VERSION 4.5__
     - Version 4.6 does not provide enough template content in my opinion
     - Be able to edit/troubleshoot templates, load them into openshift, then create an application using that template
     - Understand parameters and their different fields (name, description, value, required, etc)
