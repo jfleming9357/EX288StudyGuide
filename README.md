@@ -1,4 +1,5 @@
 # EX288 Study Guide
+__NOTE:__ This is not being actively maintained. I am unfamiliar with current versions of the exam, as this was created September 2021. 
 
 - Grades have been posted in slack channel previously without NDA issues, so this will follow the grading format
 - All chapter references are for __DO288 version 4.6 unless otherwise specified__
@@ -7,7 +8,6 @@
 - Best practice is to be able to complete all functionality in __both the CLI and web console__ where possible, however I may specify where one might be easier than the other in some cases, though bear in mind that these are opinions
 - [Full exam study points for the exam, from Red Hat](https://www.redhat.com/en/services/training/ex288-red-hat-certified-specialist-openshift-application-development-exam?section=Objectives)
   - As this is the full list, this is exactly what you should study. Some of my guide is definitely redundant with this. My goal is to provide relevant information for where to find some topics, along with things that have tripped up myself or others while learning OpenShift
-- If anyone thinks that too much has been shared, information is incorrect or could be improved, or you have any questions, please contact me at jason.fleming@ibm.com, or @jason.fleming on IBM slack channels
 
 
 __General tips__
