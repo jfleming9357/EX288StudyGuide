@@ -1,5 +1,5 @@
 # EX288 Study Guide
-__NOTE:__ This is not being actively maintained. I am unfamiliar with current versions of the exam, as this was created September 2021. 
+__NOTE:__ This is not being actively maintained. I am unfamiliar with current versions of the exam, as this was created September 2021 for version 4.6 of the exam. 
 
 - Grades have been posted in slack channel previously without NDA issues, so this will follow the grading format
 - All chapter references are for __DO288 version 4.6 unless otherwise specified__
